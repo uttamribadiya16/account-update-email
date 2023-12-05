@@ -1,0 +1,141 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Montserrat', 'Arial', sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-font href="https://fonts.googleapis.com/css?family=Montserrat:normal,italic,bold&display=swap" name="Montserrat"></mj-font>
+  </mj-head>
+  <mj-body background-color="#F0F0F0">
+    <mj-section background-color="#1A2A4A" padding-bottom="50px" padding-left="50px" padding-right="50px" padding-top="50px" padding="50px">
+      <mj-column padding="0">
+        <mj-text align="center" color="#fff" font-size="36px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="5px" padding="10px">
+          VENICE
+        </mj-text>
+        <mj-spacer height="40px"></mj-spacer>
+        <mj-text align="center" color="#fff" font-size="16px" padding="10px">
+          <strong>YOUR REPORT IN 2023</strong>
+        </mj-text>
+        <mj-text align="center" color="#fff" font-size="100px" line-height="80px" padding-bottom="0px" padding-left="10px" padding-right="10px" padding-top="0px" padding="0px">
+          <strong>2023</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="50px" padding="50px">
+      <mj-column padding="0">
+        <mj-text align="center" color="#1A2A4A" font-size="30px" padding="10px">
+          <strong>Here's your updated summary</strong>
+        </mj-text>
+        <mj-text align="center" color="#1A2A4A" font-size="24px" line-height="40px" padding="10px">
+          Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+        </mj-text>
+         <mj-text align="center" color="#1A2A4A" font-size="18px" line-height="30px" padding="10px">
+          Additional content goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu sem vel nulla scelerisque vestibulum.
+        </mj-text>
+        <mj-text align="center" color="#1A2A4A" font-size="20px" line-height="30px" padding="10px">
+          More details and information to make this report comprehensive.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding="20px">
+      <mj-column padding="0">
+        <mj-divider border-color="#D5D5D5" border-width="1px" padding-bottom="10px" padding-left="0" padding-right="0" padding-top="10px" padding="10px 0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
+      <mj-column padding="0">
+        <mj-text align="center" color="#FCA311" font-size="56px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
+          <strong>07</strong>
+        </mj-text>
+        <mj-text align="center" color="#1A2A4A" font-size="18px" padding="10px">
+          Lorem ipsum dolor sit
+        </mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="center" color="#FCA311" font-size="14px" padding="10px">
+          <strong><span style="text-decoration: underline;">Minim veniam</span></strong>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text align="center" color="#FCA311" font-size="56px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
+          <strong>91</strong>
+        </mj-text>
+        <mj-text align="center" color="#1A2A4A" font-size="18px" padding="10px">
+          Lorem ipsum dolor sit
+        </mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="center" color="#FCA311" font-size="14px" padding="10px">
+          <strong><span style="text-decoration: underline;">Minim veniam</span></strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding-bottom="10px" padding-left="60px" padding-right="60px" padding-top="10px" padding="60px">
+      <mj-column padding="0">
+        <mj-divider border-color="#D5D5D5" border-width="1px" padding-bottom="10px" padding-left="0" padding-right="0" padding-top="10px" padding="10px 0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding-bottom="10px" padding-left="50px" padding-right="50px" padding-top="10px" padding="50px">
+      <mj-column padding="0">
+        <mj-text align="center" color="#FCA311" font-size="56px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
+          <strong>429</strong>
+        </mj-text>
+        <mj-text align="center" color="#1A2A4A" font-size="18px" padding="10px">
+          Lorem ipsum dolor sit
+        </mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="center" color="#FCA311" font-size="14px" padding="10px">
+          <strong><span style="text-decoration: underline;">Minim veniam</span></strong>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text align="center" color="#FCA311" font-size="56px" padding-bottom="5px" padding-left="10px" padding-right="10px" padding-top="10px" padding="10px">
+          <strong>55</strong>
+        </mj-text>
+        <mj-text align="center" color="#1A2A4A" font-size="18px" padding="10px">
+          Lorem ipsum dolor sit
+        </mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="center" color="#FCA311" font-size="14px" padding="10px">
+          <strong><span style="text-decoration: underline;">Minim veniam</span></strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding="20px">
+      <mj-column padding="0">
+        <mj-divider border-color="#D5D5D5" border-width="1px" padding-bottom="10px" padding-left="0" padding-right="0" padding-top="10px" padding="10px 0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding-bottom="20px" padding-left="50px" padding-right="50px" padding-top="10px" padding="20px">
+      <mj-column padding="0">
+        <mj-text align="center" color="#1A2A4A" font-size="24px" line-height="40px" padding="10px">
+          Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+        </mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="center" color="#FCA311" font-size="24px" padding="10px">
+          <strong><span style="text-decoration: underline;">Minim veniam</span></strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EFEFEF" padding-bottom="0px" padding-left="50px" padding-right="50px" padding-top="0px" padding="50px">
+      <mj-column padding="0">
+        <mj-image fluid-on-mobile="true" padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/78cd7791-2735-955b-00eb-282341b5e5d5.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1A2A4A" padding="50px">
+      <mj-column padding="0">
+        <mj-text align="center" color="#fff" font-size="24px" line-height="40px" padding="10px">
+          <strong>Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</strong>
+        </mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-social font-size="15px" icon-size="60px" inner-padding="6px" mode="horizontal" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" padding="10px 25px">
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/293d8465-6dbf-fd33-caaf-6d90c2ff004f.png" alt="https://www.facebook.com/" background-color="#FCA311" border-radius="100px" href="https://www.facebook.com/" name="facebook-noshare"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/c94ab774-1f6c-a37c-5588-e044c367112e.png" alt="https://www.google.com/" background-color="#FCA311" border-radius="100px" href="https://www.google.com/" name="google-noshare"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/363985ab-7089-cc36-7390-93596b814eb2.png" alt="https://www.twitter.com/" background-color="#FCA311" border-radius="100px" href="https://www.twitter.com/" name="twitter-noshare"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/e918070e-2819-2931-672a-90e37e0ea3c8.png" alt="https://www.pinterest.com" background-color="#FCA311" border-radius="100px" href="https://www.pinterest.com" name="pinterest-noshare"></mj-social-element>
+        </mj-social>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text align="center" color="#fff" font-size="14px" line-height="20px" padding="10px">
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br /><br />Proident, sunt in culpa unsubscribe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
